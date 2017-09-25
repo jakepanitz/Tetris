@@ -1,0 +1,12 @@
+node_modules
+dist/*.svg
+dist/*.woff
+dist/*.ttf
+dist/*.eot
+dist/*.png
+dist/*.woff2
+dist/*.gif
+dist/*.jpg
+dist/*.js
+dist/styles
+npm-debug.log
