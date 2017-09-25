@@ -1,5 +1,5 @@
 # Tetris
-Tetris game made with React.
+Tetris game made with React and css-grid.
 
 
 ### Running:  
